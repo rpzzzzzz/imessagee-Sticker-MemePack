@@ -1,4 +1,168 @@
 {
+  "stickers" : [
+    {
+      "filename" : "badass.sticker"
+    },
+    {
+      "filename" : "bloody_keyboard.sticker"
+    },
+    {
+      "filename" : "cereal_guy_animation.sticker"
+    },
+    {
+      "filename" : "crying_animation.sticker"
+    },
+    {
+      "filename" : "didnt_read_lol.sticker"
+    },
+    {
+      "filename" : "fantastic.sticker"
+    },
+    {
+      "filename" : "feelings_chaos.sticker"
+    },
+    {
+      "filename" : "fine_troll_dancing.sticker"
+    },
+    {
+      "filename" : "forever_alone_crying.sticker"
+    },
+    {
+      "filename" : "forever_alone_dancing_(with_text).sticker"
+    },
+    {
+      "filename" : "forever_alone_dancing.sticker"
+    },
+    {
+      "filename" : "forever_alone_mask.sticker"
+    },
+    {
+      "filename" : "forever_alone_speaking.sticker"
+    },
+    {
+      "filename" : "fuck_you.sticker"
+    },
+    {
+      "filename" : "fuuu_alternative.sticker"
+    },
+    {
+      "filename" : "gasp_animation.sticker"
+    },
+    {
+      "filename" : "going_away_slow.sticker"
+    },
+    {
+      "filename" : "haters_gonna_hate_animation.sticker"
+    },
+    {
+      "filename" : "heard_something.sticker"
+    },
+    {
+      "filename" : "i_am_going_to_kill_you.sticker"
+    },
+    {
+      "filename" : "kill.sticker"
+    },
+    {
+      "filename" : "laughing_hard.sticker"
+    },
+    {
+      "filename" : "leaning_back.sticker"
+    },
+    {
+      "filename" : "little_man_rising_up.sticker"
+    },
+    {
+      "filename" : "lolol.sticker"
+    },
+    {
+      "filename" : "long_neck_surprise.sticker"
+    },
+    {
+      "filename" : "maximum_trolling.sticker"
+    },
+    {
+      "filename" : "me_gusta_vs_okay.sticker"
+    },
+    {
+      "filename" : "mickey_troll.sticker"
+    },
+    {
+      "filename" : "mother_of_god.sticker"
+    },
+    {
+      "filename" : "nothing_to_do_here_animation.sticker"
+    },
+    {
+      "filename" : "nyancat.sticker"
+    },
+    {
+      "filename" : "okay.sticker"
+    },
+    {
+      "filename" : "pedobear_animation.sticker"
+    },
+    {
+      "filename" : "rage.sticker"
+    },
+    {
+      "filename" : "rainbow_puke_animation.sticker"
+    },
+    {
+      "filename" : "rapper.sticker"
+    },
+    {
+      "filename" : "real_life_animation.sticker"
+    },
+    {
+      "filename" : "run.sticker"
+    },
+    {
+      "filename" : "shoosh.sticker"
+    },
+    {
+      "filename" : "slap.sticker"
+    },
+    {
+      "filename" : "staring_at_pc.sticker"
+    },
+    {
+      "filename" : "the_mask.sticker"
+    },
+    {
+      "filename" : "troll_arms.sticker"
+    },
+    {
+      "filename" : "troll_dad_dancing.sticker"
+    },
+    {
+      "filename" : "troll_dancing.sticker"
+    },
+    {
+      "filename" : "troll_feet.sticker"
+    },
+    {
+      "filename" : "troll_grin_dancing.sticker"
+    },
+    {
+      "filename" : "troll_typing_animation.sticker"
+    },
+    {
+      "filename" : "trolled_me_gusta.sticker"
+    },
+    {
+      "filename" : "u_mad_troll.sticker"
+    },
+    {
+      "filename" : "what_the_hell.sticker"
+    },
+    {
+      "filename" : "wink.sticker"
+    },
+    {
+      "filename" : "yao_ming.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
